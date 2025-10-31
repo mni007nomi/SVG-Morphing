@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "Arial Rounded MT";
+    src: url(../fonts/ARIALROUNDEDMT.TTF);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --body-bg-color: #2E0231;
+    --male-color: #1323E2;
+    --female-color: #FF1C7E;
+    --btn-width: 150px;
+    --btn-height: 64px;
+    --btn-border-radius: 5vmin;
+    --btn-border-width: 3px;
+}
+
+body{
+    font-family: "Arial Rounded MT";
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 2em;
+    background-color: var(--body-bg-color);
+}
+
+#top-heading{
+    font-size: 2.5em;
+    color: white;
+    font-weight: 700;
+}
+
+#button-container{
+    display: flex;
+    gap: 1em;
+}
+
+.gender-selection{
+    width: var(--btn-width);
+    height: var(--btn-height);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.25em;
+    border-radius: var(--btn-border-radius);
+    cursor: pointer;
+}
+
+.gender-selection.male{
+    color: var(--male-color);
+    border: var(--btn-border-width) solid var(--male-color);
+    background-color: transparent;
+}
+
+.gender-selection.female{
+    color: var(--female-color);
+    border: var(--btn-border-width) solid var(--female-color);
+    background-color: transparent;
+}
+
+.gender-selection.male.selected{
+    background-color: var(--male-color);
+}
+
+.gender-selection.female.selected{
+    background-color: var(--female-color);
+}
+
+.gender-selection.selected{
+    color: white;
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="645.254" height="599.157" viewBox="0 0 645.254 599.157">
+  <circle id="face" cx="44" cy="44" r="44" transform="translate(77.128)" fill="#1323e2"/>
+  <path id="legs" d="M-4029.361,1968.093h102.192l-13.225,216.167h-67.326Z" transform="translate(4099.392 -1585.103)" fill="#1323e2"/>
+  <path id="body" d="M-4098.789,1717.662h76.584l45.331,53.672,36.723-53.672h83.617l-25.861,31.175h0l-29.461,36.72V1998.99h-135.19V1785.557l-21.26-36.72h0C-4073.876,1741.043-4098.789,1717.662-4098.789,1717.662Z" transform="translate(4098.789 -1616)" fill="#1323e2"/>
+  <circle id="Ellipse_5" data-name="Ellipse 5" cx="44" cy="44" r="44" transform="translate(480.128 0)" fill="#ff1c7e"/>
+  <path id="Path_19" data-name="Path 19" d="M-4029.361,1968.093h102.192l-13.225,216.167h-67.326Z" transform="translate(4502.392 -1585.103)" fill="#ff1c7e"/>
+  <path id="body-2" data-name="body" d="M-4098.789,1717.662h76.584s23.727,40.465,44.24,40.465,37.814-40.465,37.814-40.465h83.617l-18.824,31.175s-18.729-3.787-22.908,0c-8.75,7.929-7.983,20.038-17.728,35.7s-21.575,15.648-24.157,26.956c-3.979,17.425,0,30.95,0,30.95l52.6,156.543H-4063.3l48.764-156.543s3.409-11.787,0-30.95c-1.809-10.172-13.207-11.292-21.334-26.956s-3.367-28.614-11.175-35.7c-3.258-2.959-29.461,0-29.461,0Z" transform="translate(4501.789 -1616)" fill="#ff1c7e"/>
+  <g id="Group_5" data-name="Group 5" transform="matrix(0.956, 0.292, -0.292, 0.956, -908.758, -728.66)">
+    <path id="Path_20" data-name="Path 20" d="M1227.07,2978.267s12.6-33.145,46.08-45.271,87.839-3.234,87.839-3.234" transform="translate(119 -2563.85)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="6"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M18.193,0,36.385,30.6H0Z" transform="translate(1439.944 357.79) rotate(-30)" fill="#fff"/>
+  </g>
+</svg>
