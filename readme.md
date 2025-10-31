@@ -35,10 +35,11 @@ No frameworks. No libraries.
 🚀 Getting Started
 
 1. Clone the repository:
-<pre> 
+```bash
 git clone https://github.com/mni007nomi/SVG-Morphing.git
 cd SVG-Morphing
-</pre>
+```
+
 2. Open the desired HTML file in your browser.
 3. Experiment with paths, timing, and easing for different morphing effects!
 
